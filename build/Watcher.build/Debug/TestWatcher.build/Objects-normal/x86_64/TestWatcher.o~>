@@ -1,0 +1,8 @@
+/Users/ketema/Documents/projects/Watcher/TestWatcher.m: In function '-[TestWatcher setup]':
+/Users/ketema/Documents/projects/Watcher/TestWatcher.m:17: error: statically allocated instance of Objective-C class 'NSString'
+/Users/ketema/Documents/projects/Watcher/TestWatcher.m:17: error: statically allocated instance of Objective-C class 'NSString'
+/Users/ketema/Documents/projects/Watcher/TestWatcher.m:19: error: expected expression before '}' token
+/Users/ketema/Documents/projects/Watcher/TestWatcher.m: In function '-[TestWatcher testArguments]':
+/Users/ketema/Documents/projects/Watcher/TestWatcher.m:23: error: 'argc' undeclared (first use in this function)
+/Users/ketema/Documents/projects/Watcher/TestWatcher.m:23: error: (Each undeclared identifier is reported only once
+/Users/ketema/Documents/projects/Watcher/TestWatcher.m:23: error: for each function it appears in.)

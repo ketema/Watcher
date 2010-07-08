@@ -1,0 +1,127 @@
+TWatcher
+v7
+r0
+t300248835.689174
+cCheck dependencies
+cCompileC build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.o /Users/ketema/Documents/projects/Watcher/Watcher.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ketema/Documents/projects/Watcher/build/Debug/Watcher normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C3528B300000000000000EE
+t1278552243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004B90FA5D0000000000000401
+t1267792477
+s1025
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BF4700F00000000000C7160
+t1274310671
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004A11F09A0000000000021710
+t1242689690
+s136976
+
+N/Users/ketema/Documents/projects/Watcher/Watcher.h
+c000000004C35371300000000000000E6
+t1278555923
+s230
+i<Foundation/Foundation.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/ketema/Documents/projects/Watcher/Watcher.m
+c000000004C3537560000000000000096
+t1278555990
+s150
+i"Watcher.h"
+
+N/Users/ketema/Documents/projects/Watcher/build/Debug/Watcher
+t1278556035
+s9144
+
+N/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.LinkFileList
+c000000004C3537830000000000000071
+t1278556035
+s113
+
+N/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.o
+t1278556035
+s2772
+
+N/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/ketema/Documents/projects/Watcher/main.c
+c000000004C353564000000000000009B
+t1278555492
+s155
+i<CoreServices/CoreServices.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300248835#300248835#0(0"0(0#1#0"8629416768#0"0#
+
+CCompileC build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.o /Users/ketema/Documents/projects/Watcher/Watcher.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300248729.348279
+e300248730.001392
+r1
+xCompileC
+xbuild/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.o
+x/Users/ketema/Documents/projects/Watcher/Watcher.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/ketema/Documents/projects/Watcher/Watcher.m300248729#300248730#0(0"0(0#0#50"/Users/ketema/Documents/projects/Watcher/Watcher.m8625266176#1308"    cd /Users/ketema/Documents/projects/Watcher    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-generated-files.hmap -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-own-target-headers.hmap -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-all-target-headers.hmap -iquote /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-project-headers.hmap -F/Users/ketema/Documents/projects/Watcher/build/Debug -I/Users/ketema/Documents/projects/Watcher/build/Debug/include -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/DerivedSources/x86_64 -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/DerivedSources -c /Users/ketema/Documents/projects/Watcher/Watcher.m -o /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.o0#
+
+CCompileC build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.o /Users/ketema/Documents/projects/Watcher/Watcher.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s300248835.257795
+e300248835.664730
+r1
+xCompileC
+xbuild/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.o
+x/Users/ketema/Documents/projects/Watcher/Watcher.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@58"Compile /Users/ketema/Documents/projects/Watcher/Watcher.m300248835#300248835#0(0"0(0#0#50"/Users/ketema/Documents/projects/Watcher/Watcher.m8622747136#1344"    cd /Users/ketema/Documents/projects/Watcher    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-generated-files.hmap -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-own-target-headers.hmap -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-all-target-headers.hmap -iquote /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-project-headers.hmap -F/Users/ketema/Documents/projects/Watcher/build/Debug -I/Users/ketema/Documents/projects/Watcher/build/Debug/include -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/DerivedSources/x86_64 -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/DerivedSources -c /Users/ketema/Documents/projects/Watcher/Watcher.m -o /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.o0#
+
+CCompileC build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/main.o /Users/ketema/Documents/projects/Watcher/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s300248297.323912
+e300248297.325402
+r0
+xCompileC
+xbuild/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/main.o
+x/Users/ketema/Documents/projects/Watcher/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/ketema/Documents/projects/Watcher/main.c300248297#300248297#0(265"/Users/ketema/Documents/projects/Watcher/main.c: In function 'main':/Users/ketema/Documents/projects/Watcher/main.c:5: warning: implicit declaration of function 'NSLog'/Users/ketema/Documents/projects/Watcher/main.c:5: error: expected expression before '@' token2(22@40"Implicit declaration of function 'NSLog'300248297#69#101#0(6@47"/Users/ketema/Documents/projects/Watcher/main.c300248292#5#0#5#0#36"implicit declaration of function '*'0(4@36"Expected expression before '@' token300248297#170#95#0(6@47"/Users/ketema/Documents/projects/Watcher/main.c300248292#5#0#5#0#19"expected * before *0(0#0#47"/Users/ketema/Documents/projects/Watcher/main.c8622967776#1292"    cd /Users/ketema/Documents/projects/Watcher    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-generated-files.hmap -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-own-target-headers.hmap -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-all-target-headers.hmap -iquote /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Watcher-project-headers.hmap -F/Users/ketema/Documents/projects/Watcher/build/Debug -I/Users/ketema/Documents/projects/Watcher/build/Debug/include -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/DerivedSources/x86_64 -I/Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/DerivedSources -c /Users/ketema/Documents/projects/Watcher/main.c -o /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/ketema/Documents/projects/Watcher/build/Debug/Watcher normal x86_64
+s300248835.664833
+e300248835.689135
+r1
+xLd
+x/Users/ketema/Documents/projects/Watcher/build/Debug/Watcher
+xnormal
+xx86_64
+lSLF07#2@65"Link /Users/ketema/Documents/projects/Watcher/build/Debug/Watcher300248835#300248835#0(0"0(0#0#0"8629663264#552"    cd /Users/ketema/Documents/projects/Watcher    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/ketema/Documents/projects/Watcher/build/Debug -F/Users/ketema/Documents/projects/Watcher/build/Debug -filelist /Users/ketema/Documents/projects/Watcher/build/Watcher.build/Debug/Watcher.build/Objects-normal/x86_64/Watcher.LinkFileList -mmacosx-version-min=10.6 -framework CoreServices -framework Foundation -o /Users/ketema/Documents/projects/Watcher/build/Debug/Watcher0#
+
